@@ -87,14 +87,13 @@
 ### Решение: конфигурация NGINX + docker-compose
 
 #### Структура проекта:
-gateway-task/
-├── compose.yaml
-├── nginx/
-│   └── nginx.conf
-└── services/
-    ├── security/
-    │   ├── security_service.py
-    │   └── requirements.txt
-    └── uploader/
-        ├── uploader_service.py
-        └── requirements.txt
+<p align="center">
+  <img src="S/S2.png" width="900"/>
+  <br>
+</p>
+Проверка работоспособности
+<p align="center">
+  <img src="S/S1.png" width="900"/>
+  <br>
+</p>
+
