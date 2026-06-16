@@ -88,7 +88,7 @@
 
 #### Структура проекта:
 <p align="center">
-  <img src="S/S2.png" width="900"/>
+  <img src="S/S2.png" width="300"/>
   <br>
 </p>
 Проверка работоспособности
