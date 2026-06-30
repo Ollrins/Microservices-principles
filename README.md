@@ -78,7 +78,7 @@ Apache APISIX — это современный стандарт для API Gate
 
 ## Задача 3: API Gateway * (практическая)
 
-### Решение: конфигурация NGINX + docker-compose
+### Решение: конфигурация NGINX + docker compose
 
 #### Структура проекта:
 <p align="center">
